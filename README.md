@@ -26,10 +26,10 @@ This game takes place in a small grocery store, and you’re the employee on the
 
 ## Advanced Features
 1. Physics-based animation:
-   projectile trajectory
-   mid-air angular motion based on projectile's moment of inertia
-   rebound calculation when projectile hits front or rim of bin
-   collision detection using rectangular bounding boxes
+⋅⋅⋅projectile trajectory
+⋅⋅⋅mid-air angular motion based on projectile's moment of inertia
+⋅⋅⋅rebound calculation when projectile hits front or rim of bin
+⋅⋅⋅collision detection using rectangular bounding boxes
 2. Mouse picking: click on green cashier sign or lucky cat to zoom in for details
 3. Bump mapping: floor tiles contain slightly perturbed normals 
 4. Sprite animation: scrolling texture cashier monitor
