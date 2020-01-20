@@ -31,7 +31,12 @@ This game takes place in a small grocery store, and you’re the employee on the
     * rebound calculation when projectile hits front or rim of bin
     * collision detection using rectangular bounding boxes
 2. Mouse picking: click on green cashier sign or lucky cat to zoom in for details
+![alt text](https://i.imgur.com/1Cfhmpm.gif "Mouse picking")
 3. Bump mapping: floor tiles contain slightly perturbed normals 
 4. Sprite animation: scrolling texture cashier monitor
 5. Shadow mapping: light brown shadows according to a single central light source
+
+## Design Process 
+![alt text](https://i.imgur.com/nRjLBDF.png "Design process 1")
+![alt text](https://i.imgur.com/d8OZdOm.png "Design process 2")
 
