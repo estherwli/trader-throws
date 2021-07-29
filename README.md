@@ -1,5 +1,5 @@
-![alt text](https://imgur.com/5XACEWr "Logo")
-![alt text](https://imgur.com/WP7WBho "Concept Art")
+![alt text](https://i.imgur.com/5XACEWr.png "Logo")
+![alt text](https://i.imgur.com/WP7WBho.png "Concept Art")
 
 
 ## Setting up
