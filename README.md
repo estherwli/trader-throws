@@ -1,5 +1,5 @@
-![alt text](https://github.com/intro-graphics-master-F19/term-project-team-costcode/blob/master/assets/traderthrows.png "Logo")
-![alt text](https://github.com/intro-graphics-master-F19/term-project-team-costcode/blob/master/assets/trader-throws-concept-art.png "Concept Art")
+![alt text](https://imgur.com/5XACEWr "Logo")
+![alt text](https://imgur.com/WP7WBho "Concept Art")
 
 
 ## Setting up
